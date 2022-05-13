@@ -21,8 +21,8 @@
 ### [kotlin문법](https://github.com/js988174/Kotlin)
 
 ##  안드로이드 작업
-### [webView 작업1](https://github.com/js988174/washcar)
-### [webView 작업2](https://github.com/js988174/kidforp)
+### [webView washcar](https://github.com/js988174/washcar)
+### [webView kidforp](https://github.com/js988174/kidforp)
 ### [Android Project](https://github.com/js988174/cafe)
 
 
