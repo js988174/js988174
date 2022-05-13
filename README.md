@@ -1,7 +1,11 @@
 ## Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/SpringSecurity-1DB954?style=flat-square&logo=SpringSecurity&logoColor=green"/></a>
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=green"/></a>
+  <img src="https://img.shields.io/badge/SpringSecurity-1DB954?style=flat-square&logo=SpringSecurity&logoColor=green"/></a>
+  <br>
+
 
 
 ## 정리 
