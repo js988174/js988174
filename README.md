@@ -1,4 +1,3 @@
-## Tech Stack
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
