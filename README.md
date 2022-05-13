@@ -18,7 +18,7 @@
 
 ## 프로그래밍 정리 
 ### [jpa문법](https://github.com/js988174/jpa)
-### [kotlin문법](https://github.com/js988174/Kotlin)
+### [kotlin 문법](https://github.com/js988174/Kotlin)
 
 ##  안드로이드 작업
 ### [webView 세날](https://github.com/js988174/washcar)
