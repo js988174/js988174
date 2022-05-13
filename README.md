@@ -17,8 +17,8 @@
   <br>
 
 ## 프로그래밍 정리 
-### [jpa기본](https://github.com/js988174/jpa)
-### [kotlin기본](https://github.com/js988174/Kotlin)
+### [jpa문법](https://github.com/js988174/jpa)
+### [kotlin문법](https://github.com/js988174/Kotlin)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js988174&show_icons=true&theme=radical)
   <div>
