@@ -1,5 +1,5 @@
 ## Tech Stack
-<img src="https://img.shields.io/badge/java-#007396?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 
 ## 정리 
 ### [jpa기본](https://github.com/js988174/jpa)
