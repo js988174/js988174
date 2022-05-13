@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
   <br>
-  
-## 정리 
+  <div>
+## 프로그래밍 정리 
 ### [jpa기본](https://github.com/js988174/jpa)
 
 
