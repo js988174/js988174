@@ -26,7 +26,7 @@
 ### [Android Project](https://github.com/js988174/cafe)
 
 ##  jpa 
-### [](https://github.com/js988174/jpashop)
+### [강의1](https://github.com/js988174/jpashop)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js988174&show_icons=true&theme=radical)
   <div>
