@@ -16,17 +16,7 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
   <br>
 
-## 프로그래밍 정리 
-### [jpa문법](https://github.com/js988174/jpa)
-### [kotlin 문법](https://github.com/js988174/Kotlin)
 
-##  안드로이드 작업
-### [webView 세날](https://github.com/js988174/washcar)
-### [webView kidforp](https://github.com/js988174/kidforp)
-### [Android Project](https://github.com/js988174/cafe)
-
-##  jpa 
-### [강의1](https://github.com/js988174/jpashop)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js988174&show_icons=true&theme=radical)
   <div>
