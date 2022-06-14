@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
   <br>
 
-
+📝 Blog : https://rudtjs49.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js988174&show_icons=true&theme=radical)
   <div>
