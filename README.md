@@ -17,8 +17,8 @@
   <br>
 
 
-📝 Blog : https://rudtjs49.tistory.com
-📫 Notion : 
+📝 Blog : https://rudtjs49.tistory.com   <br>
+📫 Notion : https://www.notion.so/5b6d48ce1dfd47c592206d47e740c4f1
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=js988174&show_icons=true&theme=blue)
   <div>
